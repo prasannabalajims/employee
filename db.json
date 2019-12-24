@@ -1,0 +1,15 @@
+{
+                "title": "Order Value",
+                "subtitle": "Today's Sales",
+                "ranges": [
+                    0,
+                    30,
+                    80
+                ],
+                "measures": [
+                    60
+                ],
+                "markers": [
+                    70
+                ]
+            }
